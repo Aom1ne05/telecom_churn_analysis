@@ -53,4 +53,5 @@ Jupyter Notebook для анализа и отчётов.
 ```pip install -r requirements.txt```
 
 3. Запустить Jupyter Notebook:
+
 ```jupyter notebook analyze_t_customers.ipynb```
